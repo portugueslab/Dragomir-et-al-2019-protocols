@@ -34,4 +34,4 @@ stimulus = CenteringWrapper(
 
 ```
 
-Please refer to the Stytra ![documentation](http://portugueslab.com/stytra) for more details. 
+Please refer to the Stytra [documentation](http://portugueslab.com/stytra) for more details. 
